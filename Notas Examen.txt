@@ -1,1 +1,3 @@
 lastrico 10
+perez 9
+gonzalez 9
